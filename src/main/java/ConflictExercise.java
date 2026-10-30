@@ -1,4 +1,4 @@
 public class ConflictExercise {
 
-    private String groupName = "Datamatiker";
+    private String groupName = "Code Crew";
 }
